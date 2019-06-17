@@ -1,2 +1,2 @@
 # hello-world
-One small step for other but one giant leap for me
+One small step for others but one giant leap for me
